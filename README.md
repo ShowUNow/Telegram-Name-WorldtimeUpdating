@@ -1,6 +1,7 @@
 # Telegram-Name-WorldtimeUpdating  
 
 The name of the telegram can be changed every minute to the time in different parts of the world
+可以每分钟将电报的名字改变为全球不同地区的时间
 
 参考文档：<a href="https://telethon.readthedocs.io/en/stable/">Telethon</a>
 
