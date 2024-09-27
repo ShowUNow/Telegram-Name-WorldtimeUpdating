@@ -4,8 +4,64 @@ The name of the telegram can be changed every minute to the time in different pa
 
 参考文档：<a href="https://telethon.readthedocs.io/en/stable/">Telethon</a>
 
+Name实时更新效果：<a href="https://t.me/mainjor">(https://t.me/mainjor)</a>
 
-lastname实时更新效果：<a href="https://t.me/mainjor">(https://t.me/mainjor)</a>
+<code>
+timezones = {
+    '亚洲/东京': ('Asia/Tokyo', 'UTC+9'),
+    '欧洲/莫斯科': ('Europe/Moscow', 'UTC+3'),
+    '亚洲/上海': ('Asia/Shanghai', 'UTC+8'),
+    '美国/东部': ('US/Eastern', 'UTC-5'),
+    '美国/太平洋': ('US/Pacific', 'UTC-8'),
+    '格林尼治标准时间': ('Etc/GMT', 'UTC+0'),
+    '澳大利亚/悉尼': ('Australia/Sydney', 'UTC+10'),
+    '非洲/约翰内斯堡': ('Africa/Johannesburg', 'UTC+2'),
+    '亚洲/加尔各答': ('Asia/Kolkata', 'UTC+5:30'),
+    '欧洲/柏林': ('Europe/Berlin', 'UTC+1'),
+    '欧洲/伦敦': ('Europe/London', 'UTC+0'),
+    '亚洲/迪拜': ('Asia/Dubai', 'UTC+4'),
+    '美国/纽约': ('America/New_York', 'UTC-5'),
+    '美国/洛杉矶': ('America/Los_Angeles', 'UTC-8'),
+    '美国/芝加哥': ('America/Chicago', 'UTC-6'),
+    '亚洲/新加坡': ('Asia/Singapore', 'UTC+8'),
+    '亚洲/香港': ('Asia/Hong_Kong', 'UTC+8'),
+    '亚洲/首尔': ('Asia/Seoul', 'UTC+9'),
+    '非洲/内罗毕': ('Africa/Nairobi', 'UTC+3'),
+    '非洲/开罗': ('Africa/Cairo', 'UTC+2'),
+    '非洲/拉各斯': ('Africa/Lagos', 'UTC+1'),
+    '亚洲/马尼拉': ('Asia/Manila', 'UTC+8'),
+    '亚洲/台北': ('Asia/Taipei', 'UTC+8'),
+    '美洲/圣地亚哥': ('America/Santiago', 'UTC-4'),
+    '欧洲/巴黎': ('Europe/Paris', 'UTC+1')
+}
+    flag_emojis = {
+    '亚洲/东京': '🇯🇵',
+    '欧洲/莫斯科': '🇷🇺',
+    '亚洲/上海': '🇨🇳',
+    '美国/东部': '🇺🇸',
+    '美国/太平洋': '🇺🇸',
+    '格林尼治标准时间': '🌍',
+    '澳大利亚/悉尼': '🇦🇺',  
+    '非洲/约翰内斯堡': '🇿🇦',
+    '亚洲/加尔各答': '🇮🇳',
+    '欧洲/柏林': '🇩🇪',
+    '欧洲/伦敦': '🇬🇧',
+    '亚洲/迪拜': '🇦🇪',
+    '美国/纽约': '🇺🇸',
+    '美国/洛杉矶': '🇺🇸',
+    '美国/芝加哥': '🇺🇸',
+    '亚洲/新加坡': '🇸🇬',
+    '亚洲/香港': '🇭🇰',
+    '亚洲/首尔': '🇰🇷',
+    '非洲/内罗毕': '🇰🇪',
+    '非洲/开罗': '🇪🇬',
+    '非洲/拉各斯': '🇳🇬',
+    '亚洲/马尼拉': '🇵🇭',
+    '亚洲/台北': '🇹🇼',
+    '美洲/圣地亚哥': '🇨🇱',
+    '欧洲/巴黎': '🇫🇷'
+}
+</code>
 
 ## 0. 准备
 
