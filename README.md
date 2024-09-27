@@ -15,7 +15,7 @@ lastname实时更新效果：<a href="https://t.me/mainjor">(https://t.me/mainjo
 
 ## 1. 下载Demo小程序到VPS上
 
-<code>git clone https://github.com/xyou365/Telegram-Name-Updating.git</code>\
+<code>git clone https://github.com/showunow/Telegram-Name-Updating.git</code>\
 <code>cd Telegram-Name-Updating</code>
 
 ## 2. 安装telethon
