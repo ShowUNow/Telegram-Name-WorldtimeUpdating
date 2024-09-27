@@ -86,3 +86,4 @@ timezones = {
 
 根据提示输入api_id和api_hash。接着输入手机号和验证码，如果账号开启了二次验，证根据提示再输入二次验证的密码。最后看到 It works! 表明成功了。
 
+原作者：https://github.com/xyou365/Telegram-Name-Updating
