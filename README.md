@@ -1,4 +1,4 @@
-# Telegram-Name-Updating
+# Telegram-Name-WorldtimeUpdating  
 
 The name of the telegram can be changed every minute to the time in different parts of the world
 
