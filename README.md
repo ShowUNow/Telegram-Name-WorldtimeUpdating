@@ -24,7 +24,7 @@ lastname实时更新效果：<a href="https://t.me/mainjor">(https://t.me/mainjo
 
 ## 3. 运行
 
-<code>python3 tg_username_update.py</code>
+<code>python3 tg_name.py</code>
 
 ## 4. api认证和用户登陆
 
